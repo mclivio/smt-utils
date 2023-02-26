@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SMT-Utils</string>
+    <string name="description_apple">Apple Icon</string>
+    <string name="description_moon">Moon Icon</string>
+    <string name="description_book">Book Icon</string>
+    <string name="description_david">Star of David Icon</string>
 </resources>
