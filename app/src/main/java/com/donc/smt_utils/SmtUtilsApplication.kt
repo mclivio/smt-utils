@@ -5,6 +5,7 @@ import android.content.Context
 import dagger.hilt.android.HiltAndroidApp
 import timber.log.Timber
 
+@HiltAndroidApp
 class SmtUtilsApplication : Application() {
     override fun onCreate() {
         super.onCreate()
