@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">SMT-Utils</string>
+    <string name="description_apple">Apple Icon</string>
+    <string name="description_moon">Moon Icon</string>
+    <string name="description_book">Book Icon</string>
+    <string name="description_david">Star of David Icon</string>
+    <string name="description_construction">Under Construction Icon</string>
+    <string name="button_applescreen">Apples</string>
+    <string name="button_moonphasescreen">Moonphase</string>
+    <string name="button_expertisescreen">Expertise</string>
+    <string name="button_demonschedule">Demon Schedule</string>
+    <string name="button_tbcscreen">TBC</string>
 </resources>
